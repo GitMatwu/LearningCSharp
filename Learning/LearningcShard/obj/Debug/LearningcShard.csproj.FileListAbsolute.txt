@@ -1,0 +1,7 @@
+C:\Users\matyi\Documents\Workspace\Learning\LearningcShard\bin\Debug\LearningcShard.exe.config
+C:\Users\matyi\Documents\Workspace\Learning\LearningcShard\bin\Debug\LearningcShard.exe
+C:\Users\matyi\Documents\Workspace\Learning\LearningcShard\bin\Debug\LearningcShard.pdb
+C:\Users\matyi\Documents\Workspace\Learning\LearningcShard\obj\Debug\LearningcShard.csproj.AssemblyReference.cache
+C:\Users\matyi\Documents\Workspace\Learning\LearningcShard\obj\Debug\LearningcShard.csproj.CoreCompileInputs.cache
+C:\Users\matyi\Documents\Workspace\Learning\LearningcShard\obj\Debug\LearningcShard.exe
+C:\Users\matyi\Documents\Workspace\Learning\LearningcShard\obj\Debug\LearningcShard.pdb
