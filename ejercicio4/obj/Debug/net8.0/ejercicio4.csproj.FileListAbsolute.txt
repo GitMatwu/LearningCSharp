@@ -1,0 +1,14 @@
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\obj\Debug\net8.0\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\obj\Debug\net8.0\ejercicio4.AssemblyInfoInputs.cache
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\obj\Debug\net8.0\ejercicio4.AssemblyInfo.cs
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\obj\Debug\net8.0\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\bin\Debug\net8.0\ejercicio4.exe
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\bin\Debug\net8.0\ejercicio4.deps.json
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\bin\Debug\net8.0\ejercicio4.runtimeconfig.json
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\bin\Debug\net8.0\ejercicio4.dll
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\bin\Debug\net8.0\ejercicio4.pdb
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\obj\Debug\net8.0\ejercicio4.dll
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\obj\Debug\net8.0\refint\ejercicio4.dll
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\obj\Debug\net8.0\ejercicio4.pdb
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\obj\Debug\net8.0\ejercicio4.genruntimeconfig.cache
+C:\Users\matyi\Documents\Workspace\repos\ejercicio4\obj\Debug\net8.0\ref\ejercicio4.dll
