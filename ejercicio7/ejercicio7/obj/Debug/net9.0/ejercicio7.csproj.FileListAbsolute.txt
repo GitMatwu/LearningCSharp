@@ -1,0 +1,14 @@
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\bin\Debug\net9.0\ejercicio7.exe
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\bin\Debug\net9.0\ejercicio7.deps.json
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\bin\Debug\net9.0\ejercicio7.runtimeconfig.json
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\bin\Debug\net9.0\ejercicio7.dll
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\bin\Debug\net9.0\ejercicio7.pdb
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\obj\Debug\net9.0\ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\obj\Debug\net9.0\ejercicio7.AssemblyInfoInputs.cache
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\obj\Debug\net9.0\ejercicio7.AssemblyInfo.cs
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\obj\Debug\net9.0\ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\obj\Debug\net9.0\ejercicio7.dll
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\obj\Debug\net9.0\refint\ejercicio7.dll
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\obj\Debug\net9.0\ejercicio7.pdb
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\obj\Debug\net9.0\ejercicio7.genruntimeconfig.cache
+C:\Users\matyi\Documents\Workspace\repos\ejercicio7\ejercicio7\obj\Debug\net9.0\ref\ejercicio7.dll
