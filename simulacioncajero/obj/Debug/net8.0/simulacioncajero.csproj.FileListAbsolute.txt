@@ -1,0 +1,14 @@
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\bin\Debug\net8.0\simulacioncajero.exe
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\bin\Debug\net8.0\simulacioncajero.deps.json
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\bin\Debug\net8.0\simulacioncajero.runtimeconfig.json
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\bin\Debug\net8.0\simulacioncajero.dll
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\bin\Debug\net8.0\simulacioncajero.pdb
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\obj\Debug\net8.0\simulacioncajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\obj\Debug\net8.0\simulacioncajero.AssemblyInfoInputs.cache
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\obj\Debug\net8.0\simulacioncajero.AssemblyInfo.cs
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\obj\Debug\net8.0\simulacioncajero.csproj.CoreCompileInputs.cache
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\obj\Debug\net8.0\simulacioncajero.dll
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\obj\Debug\net8.0\refint\simulacioncajero.dll
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\obj\Debug\net8.0\simulacioncajero.pdb
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\obj\Debug\net8.0\simulacioncajero.genruntimeconfig.cache
+C:\Users\matyi\Documents\Workspace\repos\simulacioncajero\obj\Debug\net8.0\ref\simulacioncajero.dll
